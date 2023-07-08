@@ -1,0 +1,65 @@
+body{
+    background-image: url(/vecteezy_abstract-background-graphic-blue-pink-background_7461950_179.jpg);
+    background-repeat: no-repeat;
+    background-position: relative ;
+}
+
+.header{
+    color: brown;
+    font-size: 22px;
+    margin-left: 10px;
+    font-size: 30px;
+    padding-left: 20px;
+  
+}
+.fix{
+    display: flex;
+    justify-content: space-around;
+}
+.homepage{
+    padding: 10px;
+}
+.Login{
+    padding: 10px;
+
+}
+.search{
+    padding: 10px;
+}
+.padding{
+    padding:12px;
+}
+
+.decoration{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding : 260px 0px;
+}
+.search-bar{
+    width: 100%;
+    max-width: 500px;
+    background:black;
+    display: flex;
+    align-items: center;
+    border-radius: 60px;
+    padding:10px 20px;
+
+}
+.search-bar input{
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding :24px 20px;
+    font-size: 20px;
+    color: #cac7ff;
+}
+.search-bar button{
+    border: 0;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    background: #58629b;
+    cursor: pointer;
+}

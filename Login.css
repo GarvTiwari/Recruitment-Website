@@ -1,0 +1,71 @@
+.h{
+    text-align: center;
+}
+.header{
+    color: brown;
+    font-size: 22px;
+    margin-left: 10px;
+    font-size: 30px;
+    padding-left: 20px;
+  
+}
+.fix{
+    display: flex;
+    justify-content: space-around;
+}
+.homepage{
+    padding: 10px;
+}
+.Login{
+    padding: 10px;
+
+}
+.search{
+    padding: 10px;
+}
+.padding{
+    padding:12px;
+}
+
+.center{
+ padding: 60px 0px;   
+}
+
+body{
+    background-color: gray;
+}
+
+.style{
+   
+        font-size: 30px;
+        color: purple;
+        text-align: center;
+        margin-bottom: 12px;
+    
+}
+
+.form-style{
+    font-size: 35px;
+    color: red;
+    height: 100px;
+    width: auto;
+}
+
+.but-style{
+    margin-right: 219px;
+}
+.button-2{
+ padding: 5px;
+ color: purple;
+}
+.mar{
+    margin-top: 3px;
+    text-align: center;
+}
+
+.for-pass{
+    color: red;
+    margin-right: 201px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
